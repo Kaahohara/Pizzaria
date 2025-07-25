@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'rest_framework',  # Django REST framework for building APIs
     # Custom apps
     'pizzaria', 
+    'menu',
+    'clients',
 ]
 
 MIDDLEWARE = [
